@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Planner",
+  "description": "A comprehensive single-page planner for managing goals (daily, weekly, monthly) and tracking academic progress. It features goal linking, automatic progress aggregation, drag-and-drop ordering, and local storage persistence.",
+  "requestFramePermissions": []
+}
